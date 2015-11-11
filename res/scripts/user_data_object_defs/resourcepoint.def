@@ -1,0 +1,45 @@
+<resourcepoint.def>
+  <Domain>CLIENT</Domain>
+  <Properties>
+    <radius>
+      <Type>FLOAT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	5	</Default>
+    </radius>
+    <startDelay>
+      <Type>FLOAT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	60	</Default>
+    </startDelay>
+    <cooldown>
+      <Type>FLOAT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	60	</Default>
+    </cooldown>
+    <damageLockTime>
+      <Type>FLOAT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	10	</Default>
+    </damageLockTime>
+    <amount>
+      <Type>UINT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	100	</Default>
+    </amount>
+    <absorptionSpeed>
+      <Type>FLOAT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	1	</Default>
+    </absorptionSpeed>
+    <reuseCount>
+      <Type>UINT32</Type>
+      <Editable>	true	</Editable>
+      <Default>	100	</Default>
+    </reuseCount>
+    <team>
+      <Type>UINT8</Type>
+      <Editable>	true	</Editable>
+      <Default>	0	</Default>
+    </team>
+  </Properties>
+</resourcepoint.def>

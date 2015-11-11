@@ -1,0 +1,15 @@
+<chain-1.xml>
+  <default-scene>	DefaultScene	</default-scene>
+  <initial-scene>Hangar</initial-scene>
+  <scenes>
+    <scene>Hangar<post-effects><clear-scene></clear-scene><switch-to-random></switch-to-random></post-effects><runtime-effects></runtime-effects><gui-items><gui-item>FightButton<on-scene-effects><show-hint>	BattleButtonHint	</show-hint></on-scene-effects></gui-item></gui-items></scene>
+    <scene>	DefaultScene	<post-effects></post-effects><runtime-effects></runtime-effects><gui-items></gui-items></scene>
+  </scenes>
+  <has-id>
+    <hint>	BattleButtonHint	<item-id>FightButton</item-id><text>_(#tutorial:chain1/hint/goToBattle)</text><arrow><direction>B</direction><loop>	True	</loop></arrow><actions><click>FightButton<effects><refuse-training></refuse-training></effects></click><click-outside>FightButton<effects><refuse-training></refuse-training></effects></click-outside></actions></hint>
+  </has-id>
+  <triggers>
+  </triggers>
+  <vars>
+  </vars>
+</chain-1.xml>

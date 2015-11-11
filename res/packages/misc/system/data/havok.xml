@@ -1,0 +1,592 @@
+<havok.xml>
+  <gravity>0 -9.8 0</gravity>
+  <destructibles>
+    <bldAM_010_CornerHouse_01>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_bldAM_010_CornerHouse_part_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldAM_010_CornerHouse_01>
+    <bld701_vhouse>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+      <debrisCollisionForceScale>0.5</debrisCollisionForceScale>
+      <debrisCollisionMaxAcceleration>	40	</debrisCollisionMaxAcceleration>
+    </bld701_vhouse>
+    <bld201_vhouse>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+    </bld201_vhouse>
+    <bldAF_004_vhouse>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_bldAF_004_vhouset_brake.bin</breakEffect>
+    </bldAF_004_vhouse>
+    <bldSU_92_20_THouse_01>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_bldAM_010_CornerHouse_part_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_01>
+    <bldSU_92_02_Zabolotniy>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_bldAM_010_CornerHouse_part_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_02_Zabolotniy>
+    <gaf010_Fence>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+    </gaf010_Fence>
+    <gafAM_006_ConcreteFence_tile1>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafAM_006_ConcreteFence_part_destroy.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafAM_006_ConcreteFence_part_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.5</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafAM_006_ConcreteFence_tile1>
+    <gafAS_001_StoneSimpleWall>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Buildings/inf_bldAM_010_CornerHouse_part_destroy.bin</destructionEffect>
+    </gafAS_001_StoneSimpleWall>
+    <gafF_001_FactoryFence_tile>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafF_001_FactoryFence_tile>
+    <gafSU_92_02_BrickFence_tile>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_02_BrickFence_tile>
+    <gafSU_92_02_BrickFence_end>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_02_BrickFence_end>
+    <gafSU_92_02_BrickFence_end_D>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_02_BrickFence_end_D>
+    <gafSU_92_02_BrickFence_Gate>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_02_BrickFence_Gate>
+    <gafSU_92_02_BrickFence_tile_D>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_02_BrickFence_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_02_BrickFence_tile_D>
+    <gafSU_92_03_IronFence_big_end>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_big_end>
+    <gafSU_92_03_IronFence_big_gate>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_big_gate>
+    <gafSU_92_03_IronFence_big_tile>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_big_tile>
+    <gafSU_92_03_IronFence_small_end>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_small_end>
+    <gafSU_92_03_IronFence_small_gate>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_small_gate>
+    <gafSU_92_03_IronFence_small_tile>
+      <destructionEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/environment/Objects/inf_gafSU_92_03_IronFence_break.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </gafSU_92_03_IronFence_small_tile>
+    <envSU_92_12_HousePipe_01>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </envSU_92_12_HousePipe_01>
+    <envSU_92_12_HousePipe_02>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </envSU_92_12_HousePipe_02>
+    <envSU_92_12_HousePipe_03>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </envSU_92_12_HousePipe_03>
+    <bldSU_92_06_DK_Jeleznodorojnikov_a>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_06_DK_Jeleznodorojnikov_a>
+    <bldSU_92_31_MillPipe_02_crash>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	10	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>	1	</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_31_MillPipe_02_crash>
+    <bldSU_92_20_THouse_02>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_02>
+    <bldSU_92_20_THouse_03>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_03>
+    <bldSU_92_20_THouse_04>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_04>
+    <bldSU_92_20_THouse_05>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_05>
+    <bldSU_92_20_THouse_06>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_20_THouse_06>
+    <bldSU_92_22_THouse_07>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_22_THouse_07>
+    <bldSU_92_08_NKVD_01>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_08_NKVD_01>
+    <bldSU_92_08_NKVD_02>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_08_NKVD_02>
+    <bldSU_92_08_NKVD_03>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_08_NKVD_03>
+    <bldSU_92_08_NKVD_04>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_08_NKVD_04>
+    <bldSU_92_08_NKVD_05>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_08_NKVD_05>
+    <bldSU_92_26_Ruins_Walls_01>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_01>
+    <bldSU_92_26_Ruins_Walls_02>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_02>
+    <bldSU_92_26_Ruins_Walls_03>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_03>
+    <bldSU_92_26_Ruins_Walls_04>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_04>
+    <bldSU_92_26_Ruins_Walls_05>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_05>
+    <bldSU_92_26_Ruins_Walls_06>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_06>
+    <bldSU_92_26_Ruins_Walls_07>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_26_Ruins_Walls_07>
+    <bldSU_92_07_GHouse>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_07_GHouse>
+    <bldSU_92_27_Warehouse_01>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_27_Warehouse_01>
+    <bldSU_92_28_Warehouse_02>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_28_Warehouse_02>
+    <bldSU_92_29_Warehouse_03>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_29_Warehouse_03>
+    <bldSU_92_30_Warehouse_04>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <breakEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</breakEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_30_Warehouse_04>
+    <bldSU_92_01_Pavolv>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </bldSU_92_01_Pavolv>
+    <BldSU_92_22_Thouse_11>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </BldSU_92_22_Thouse_11>
+    <BldSU_92_22_Thouse_10>
+      <destructionEffect>particles/SpecialEffects/effects/havok_1/inf_gafF_001_FactoryFence_tile_brake.bin</destructionEffect>
+      <terrainCollisionForceScale>0.2</terrainCollisionForceScale>
+      <terrainCollisionMaxAcceleration>	20	</terrainCollisionMaxAcceleration>
+      <terrainCollisionLinearDampingExp>	8	</terrainCollisionLinearDampingExp>
+      <terrainCollisionAngularDampingExp>	8	</terrainCollisionAngularDampingExp>
+      <linearDampingRestoreSpeed>	100	</linearDampingRestoreSpeed>
+      <angularDampingRestoreSpeed>	100	</angularDampingRestoreSpeed>
+      <vehicleCollisionAngularDampingExp>0.8</vehicleCollisionAngularDampingExp>
+      <vehicleCollisionLinearDampingExp>0.8</vehicleCollisionLinearDampingExp>
+    </BldSU_92_22_Thouse_10>
+  </destructibles>
+  <terrainFriction>	1	</terrainFriction>
+  <terrainRestitution>	0	</terrainRestitution>
+  <terrainAllowedPenetrationDepth>0.3</terrainAllowedPenetrationDepth>
+  <vehicleFriction>	1	</vehicleFriction>
+  <vehicleRestitution>	0	</vehicleRestitution>
+  <debrisMinLifeTime>	10	</debrisMinLifeTime>
+  <smallDebrisMass>20.0</smallDebrisMass>
+  <terminalVelocity>	15	</terminalVelocity>
+  <vehicleTerminalVelocity>	7	</vehicleTerminalVelocity>
+</havok.xml>

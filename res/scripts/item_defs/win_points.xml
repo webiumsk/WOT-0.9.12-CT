@@ -1,0 +1,472 @@
+<win_points.xml>
+  <DEFAULT>
+    <winPointsCAP>	150	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	1	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	1	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	2	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	3	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	2	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	3	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </DEFAULT>
+  <ONE_FLAG_15x15>
+    <winPointsCAP>	900	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	300	</BIG>
+        <MEDIUM>	300	</MEDIUM>
+        <SMALL>	300	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	300	</BIG>
+        <MEDIUM>	300	</MEDIUM>
+        <SMALL>	300	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </ONE_FLAG_15x15>
+  <MANY_FLAGS_15x15>
+    <winPointsCAP>	900	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	150	</BIG>
+        <MEDIUM>	150	</MEDIUM>
+        <SMALL>	150	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	150	</BIG>
+        <MEDIUM>	150	</MEDIUM>
+        <SMALL>	150	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </MANY_FLAGS_15x15>
+  <ONE_FLAG_10x10>
+    <winPointsCAP>	600	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	200	</BIG>
+        <MEDIUM>	200	</MEDIUM>
+        <SMALL>	200	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	200	</BIG>
+        <MEDIUM>	200	</MEDIUM>
+        <SMALL>	200	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </ONE_FLAG_10x10>
+  <MANY_FLAGS_10x10>
+    <winPointsCAP>	600	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	100	</BIG>
+        <MEDIUM>	100	</MEDIUM>
+        <SMALL>	100	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	150	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	100	</BIG>
+        <MEDIUM>	100	</MEDIUM>
+        <SMALL>	100	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </MANY_FLAGS_10x10>
+  <MULTI_TEAM_2>
+    <winPointsCAP>	750	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	100	</BIG>
+        <MEDIUM>	100	</MEDIUM>
+        <SMALL>	100	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	5	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	5	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	10	</BIG>
+        <MEDIUM>	10	</MEDIUM>
+        <SMALL>	10	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </MULTI_TEAM_2>
+  <MULTI_TEAM_TDM>
+    <winPointsCAP>	750	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	5	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	100	</BIG>
+        <MEDIUM>	100	</MEDIUM>
+        <SMALL>	100	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	5	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	5	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	10	</BIG>
+        <MEDIUM>	10	</MEDIUM>
+        <SMALL>	10	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </MULTI_TEAM_TDM>
+  <MULTI_TEAM_FFA>
+    <winPointsCAP>	200	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	1	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	3	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	1	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1500	</damageToDeal>
+          <pointsToGrant>	3	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	5	</BIG>
+        <MEDIUM>	5	</MEDIUM>
+        <SMALL>	5	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	10	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	100	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	5	</BIG>
+        <MEDIUM>	5	</MEDIUM>
+        <SMALL>	5	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </MULTI_TEAM_FFA>
+  <RESOURCE_10x10_FULL>
+    <winPointsCAP>	250	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </RESOURCE_10x10_FULL>
+  <RESOURCE_15x15_FULL>
+    <winPointsCAP>	400	</winPointsCAP>
+    <team>
+      <vehicle>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </team>
+    <solo>
+      <vehicle>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </vehicle>
+      <equipment>
+        <winPointsForKill>	3	</winPointsForKill>
+        <winPointsForDamage>
+          <damageToDeal>	1000	</damageToDeal>
+          <pointsToGrant>	1	</pointsToGrant>
+        </winPointsForDamage>
+      </equipment>
+      <winPointsForFlag>
+        <BIG>	15	</BIG>
+        <MEDIUM>	15	</MEDIUM>
+        <SMALL>	15	</SMALL>
+      </winPointsForFlag>
+      <winPointsForOneResource>	1	</winPointsForOneResource>
+    </solo>
+  </RESOURCE_15x15_FULL>
+</win_points.xml>
